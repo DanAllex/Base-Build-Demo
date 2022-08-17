@@ -1,7 +1,7 @@
 # Base-Build-Demo
 A 3D base-building demo and associated scripts, created in Lua. Was intended to be part of a base building and raiding game.
 
-Allows the user to place items of varying dimensions onto a baseplate. Support horizontal and vertical motion, rotation, and wall dragging.
+Allows the user to place items of varying dimensions onto a baseplate, supporting multiple players and baseplates. Support horizontal and vertical motion, rotation, and wall dragging.
 Also includes stair item which automatically forms a floor surrounding where the stair exits, allowing multiple floors.
 
 In addition to the base building, this demo includes:
